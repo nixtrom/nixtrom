@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [www.techienik.me/projects](www.techienik.me/projects)
 
-- 📝 I regularly write articles on [Advancement in Robotics](Advancement in Robotics)
-
 - 💬 Ask me about **QML,JavaScript ,IoT Projects**
 
 - 📫 How to reach me **niket.chandil@gmail.com**
