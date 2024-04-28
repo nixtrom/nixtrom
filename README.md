@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niket Chandil</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="coding Nik" width="400" src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+<img align="right" alt="" width="400" src="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nixtrom&label=Profile%20views&color=0e75b6&style=flat" alt="nixtrom" /> </p>
 
 - 🔭 I’m currently working on **Developing Drones Applications**
