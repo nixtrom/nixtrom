@@ -7,13 +7,9 @@
 
 - 🌱 I’m currently learning **React | Node JS| WebRTC**
 
-- 👨‍💻 All of my projects are available at [www.techienik.me/projects](www.techienik.me/projects)
-
 - 💬 Ask me about **QML,JavaScript ,IoT Projects**
 
 - 📫 How to reach me **niket.chandil@gmail.com**
-
-- 📄 Know about my experiences [techienik.me/resume](techienik.me/resume)
 
 - ⚡ Fun fact **I once wrote a code so efficient that it ended up making the computer laugh at how fast it ran! 🚀😄**
 
